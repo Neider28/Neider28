@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neider Silva <img align="center" src="https://portfolio-neider-silva-28.vercel.app/_next/static/media/logo.50ec13f5.png" alt="logo" width="100" height="100"/></h1>
+<h1 align="center">Hi 👋, I'm Neider Silva </h1>
 <p align="left">A passionate Full Stack Javascript Developer from Colombia  who loves 💖 technology and learning new technologies every day 🌱. I love web development and specialize in JavaScript, React.js, Next.js, Node.js, and Express.js ✅. I also love mobile development, I have developed some applications in Android Studio. Also, I have knowledge 🤓 in relational and non-relational databases such as MySQL, PostgreSQL, Oracle, MongoDB and Neo4j.</p>
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neider28&theme=highcontrast" alt="neider28" /></p>
