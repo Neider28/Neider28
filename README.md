@@ -21,5 +21,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Neider28&theme=algolia&row=1&column=7)](https://github.com/Neider28/github-profile-trophy)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neider28&theme=github-dark-dimmed&border=FFFFFF" alt="neider28" />
